@@ -8,6 +8,6 @@ public class Ejercicio1 {
         System.out.println("Vivo en San Juan de Calderón");
         System.out.println("Mi teléfono es 0978852305");
 
-
+        System.out.println("Mi color favorito es el verde");
     }
 }
