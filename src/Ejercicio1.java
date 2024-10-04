@@ -11,6 +11,6 @@ public class Ejercicio1 {
         if(edad>=18){
             System.out.println("Usted puede realizar el proceso electoral de votar.");
         }//asdasd
-        //hbvfchvtc
+        //hbvfchvt
     }
 }
